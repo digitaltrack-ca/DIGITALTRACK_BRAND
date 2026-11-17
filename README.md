@@ -1,6 +1,6 @@
 # DIGITALTRACK_BRAND
 
-Private brand repository for DigitalTrack.
+Public, curated brand reference repository for DigitalTrack. Keep confidential and editable working assets in private storage.
 
 This repo is the reusable source of truth for AI agents, design workflows, and branded deliverables. It is intentionally curated. Raw working files stay outside this repo unless they are explicitly approved for inclusion.
 
@@ -40,3 +40,7 @@ licenses/
 For AI-assisted work, start with:
 
 - `docs/brand/DIGITALTRACK_BRAND_AGENT.md`
+
+## New icon system (draft — November 2026)
+
+The proposed dT monogram and circle-and-line favicon system is documented in [docs/brand/icon-favicon-system-2026-draft.md](docs/brand/icon-favicon-system-2026-draft.md). These concepts are not yet approved final assets. PNG previews are kept in the DigitalTrack branding folder in Google Drive, not committed here.
