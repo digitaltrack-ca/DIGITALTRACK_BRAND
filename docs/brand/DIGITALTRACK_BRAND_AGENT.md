@@ -252,7 +252,7 @@ If an agent must make decisions without asking:
 
 Best practice: keep the detailed brand source in its own private repo or private docs folder, then point agents to it from lightweight instruction files.
 
-Recommended private repo structure:
+Recommended repo structure (for public repos, omit any private assets and contact information):
 
 ```text
 digitaltrack-brand-private/
@@ -342,6 +342,10 @@ When new brand material is approved:
 2. mark each new rule as `confirmed` or `inferred`
 3. keep AGENTS/CLAUDE files short and stable
 4. remove template leftovers from source folders if they keep causing confusion
+
+## Small-Format Icons — 2026 Draft, Not Final
+
+The owner selected **two complementary directions to refine**, not final exported icons: a `dT` monogram for social/avatar applications and the original cyan circle-and-line motif as a simplified favicon candidate. See `docs/brand/icon-favicon-system-2026-draft.md` for the draft decision, variants, and production QA. PNG previews are held separately in the existing DigitalTrack Drive branding folder. **Do not substitute concept art for final master assets or change the approved full wordmark.**
 
 ## Summary For Agents
 
