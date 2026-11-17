@@ -48,3 +48,14 @@ A first production-candidate asset package has been generated from the existing 
 **Provenance / limitations:** Monogram letterforms are auto-traced from the original high-resolution DigitalTrack wordmark PNG, then vectorized. The circle-and-line symbol was reconstructed as a compact square mark. The dark tile uses proposed application color `#20242B` and should not be considered an approved addition to the palette. Further geometry cleanup and human approval may be required.
 
 **Next signoff:** Check the 16/32 px favicon, monogram alignment, circular avatar cropping, and dark/light backgrounds, then mark chosen variants as approved.
+
+## Individual export folders (mobile-friendly)
+
+These files are available individually in Google Drive; no ZIP extraction is required for review.
+
+- [Monogram SVG and PNG exports](https://drive.google.com/drive/folders/1HdjbMxbjFRXxNcgPEMjr0JHPsJO2GOsX)
+- [Circle-and-line SVG and PNG exports](https://drive.google.com/drive/folders/1EgSPziO40pUJlqncbteV1O_k2KlWiNKJ)
+- [Favicons and app icons](https://drive.google.com/drive/folders/1S2UNA_sts2MnI8fCIctcrnbkMRt497iZ)
+- [Contact sheet, favicon-size tests, and instructions](https://drive.google.com/drive/folders/1qDgvNCjftT6RinnINASAYf_wrfQA7Qy-)
+
+All exports remain **pending approval**. The original full logo remains the official identity.
