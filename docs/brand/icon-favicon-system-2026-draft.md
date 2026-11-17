@@ -36,3 +36,15 @@ Five PNG concept/comparison images are stored in a **draft subfolder** within th
 
 ## Agent guardrail
 Until approval, describe these as `DRAFT` and do not replace the primary logo or assume the proposed icons are final brand standard. Keep working PNG previews in Google Drive; only curated approved assets should be promoted into this repository.
+
+## Production candidate exports — 2026-11-17
+
+A first production-candidate asset package has been generated from the existing high-resolution wordmark and the circle-and-line motif. **These assets are pending final visual approval and must not be assumed to replace the existing approved logo.**
+
+- Google Drive production folder: https://drive.google.com/drive/folders/1z2Ws0kRZt5Owyh-Wu2qWuAJ0CGVEklLh
+- Complete ZIP (SVG, PNG, ICO, documentation and previews): https://drive.google.com/file/d/1CdCaEU8-SE2jR_viK0OLBRk3s_J1WZen/view
+- Contact sheet: https://drive.google.com/file/d/1W-HoiLQ-6evjtxRHkN42wIBOriYFCr4l/view
+
+**Provenance / limitations:** Monogram letterforms are auto-traced from the original high-resolution DigitalTrack wordmark PNG, then vectorized. The circle-and-line symbol was reconstructed as a compact square mark. The dark tile uses proposed application color `#20242B` and should not be considered an approved addition to the palette. Further geometry cleanup and human approval may be required.
+
+**Next signoff:** Check the 16/32 px favicon, monogram alignment, circular avatar cropping, and dark/light backgrounds, then mark chosen variants as approved.
